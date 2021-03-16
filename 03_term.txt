@@ -1,0 +1,83 @@
+C:\env\python.exe C:/Users/Administrator/PycharmProjects/pythonProject/read_mat2.py
+component: 0
+['stayhome', 'socialdistancing', 'home', 'covid19', 'stay', 'coronavirus', 'staysafe', 'quarantine', 'stayathome', 'time']
+[0.202, 0.194, 0.184, 0.181, 0.173, 0.169, 0.162, 0.146, 0.144, 0.132]
+
+component: 1
+['dereliction', 'duty', 'customs', 'milan', 'landed', 'h/t', 'lombardy', 'speech', 'mr.', 'fisa']
+[0.083, 0.081, 0.07, 0.069, 0.067, 0.066, 0.066, 0.063, 0.062, 0.062]
+
+component: 2
+['thread', 'healthcare', 'numbers', 'thanks', 'hearing', 'possible', 'tested', 'sarscov2', 'outside', 'since']
+[0.078, 0.074, 0.072, 0.07, 0.069, 0.065, 0.064, 0.064, 0.064, 0.063]
+
+component: 3
+['coronavirus', 'covid19', 'china', 'covid©`19', 'corona', 'virus', 'news', 'covid_19', 'amp', 'us']
+[0.681, 0.411, 0.284, 0.172, 0.154, 0.136, 0.116, 0.105, 0.103, 0.102]
+
+component: 4
+['global', 'economy', 'delhi', 'beat', 'happens', 'epicenter', 'economic', 'markets', 'similar', 'panic']
+[0.081, 0.077, 0.074, 0.071, 0.07, 0.066, 0.066, 0.066, 0.066, 0.062]
+
+component: 5
+['lockdown', 'home', 'stayhome', 'day', 'narendramodi', 'stayathome', 'india', 'stay', 'staysafe', 'food']
+[0.202, 0.104, 0.102, 0.096, 0.093, 0.092, 0.092, 0.092, 0.09, 0.087]
+
+component: 6
+['pandemic', 'trump', 'ebola', 'coronavirusoutbreak', 'years', 'healthcare', 'from', 'concerned', 'very', 'questions']
+[0.163, 0.119, 0.113, 0.107, 0.101, 0.096, 0.095, 0.095, 0.093, 0.093]
+
+component: 7
+['corona', 'virus', 'coronaalert', 'coronavirusoutbreak', 'india', 'coronavirusindia', 'coronavirusupdate', 'covid2019', 'covid', 'outbreak']
+[0.205, 0.182, 0.177, 0.177, 0.164, 0.162, 0.158, 0.153, 0.146, 0.136]
+
+component: 8
+['coronavirus', 'health', 'covid19', 'covid-19', 'amp', 'healthcare', 'via', 'outbreak', 'business', 'economy']
+[0.259, 0.251, 0.227, 0.187, 0.182, 0.165, 0.164, 0.157, 0.142, 0.139]
+
+component: 9
+['coronavirusuk', 'uk', 'covid19uk', 'nhs', 'borisjohnson', 'advice', 'eu', 'london', 'plan', 'action']
+[0.236, 0.204, 0.172, 0.159, 0.153, 0.128, 0.121, 0.104, 0.101, 0.098]
+
+component: 10
+['coronavirus', 'covid©`19', 'toilet', 'people', 'paper', 'panic', 'covid_19', 'one', 'covid19', '...']
+[0.335, 0.306, 0.227, 0.226, 0.208, 0.195, 0.176, 0.174, 0.17, 0.169]
+
+component: 11
+['auspol', 'australia', 'government', 'amp', 'covid19', 'new', 'economy', 'govt', 'coronavirus', 'health']
+[0.229, 0.125, 0.112, 0.107, 0.103, 0.1, 0.099, 0.095, 0.093, 0.092]
+
+component: 12
+['flu', 'sick', 'get', 'if', 'treatment', 'cdc', 'healthy', 'best', 'keep', 'doctor']
+[0.227, 0.165, 0.159, 0.153, 0.15, 0.149, 0.147, 0.146, 0.145, 0.144]
+
+component: 13
+['//t.co/92dlpcxklr', 'michaelbloomberg', 'unintentional', 'droolingbloomberg', 'saliva-soaked', 'minimikebloomberg', 'demo', 'clueless', 'handy', 'fingers']
+[0.109, 0.109, 0.109, 0.109, 0.109, 0.108, 0.108, 0.104, 0.103, 0.1]
+
+component: 14
+['coronavirusindia', 'italian', 'including', 'delhi', 'breaking', '28', 'indian', 'covid-19', 'march', 'true']
+[0.101, 0.097, 0.095, 0.094, 0.093, 0.085, 0.085, 0.082, 0.08, 0.079]
+
+component: 15
+['corona', 'israel', 'netanyahu', 'orders', 'hands', 'namaste', 'instead', 'following', 'indian', 'measures']
+[0.166, 0.155, 0.152, 0.147, 0.142, 0.141, 0.14, 0.137, 0.125, 0.123]
+
+component: 16
+['hoax', 'trump', 'realdonaldtrump', 'president', 'gop', 'would', 'people', 'if', 'donald', 'fake']
+[0.318, 0.291, 0.266, 0.198, 0.159, 0.158, 0.138, 0.128, 0.128, 0.126]
+
+component: 17
+['news', 'covid-19', 'breaking', 'cases', 'covid', 'outbreak', 'wuhan', 'travel', 'china', 'via']
+[0.234, 0.21, 0.164, 0.16, 0.154, 0.143, 0.143, 0.134, 0.132, 0.128]
+
+component: 18
+['amp', 'care', 'doctors', 'nurses', 'covid19', 'masks', 'drtedros', 'stop', 'without', 'coronavirus']
+[0.273, 0.23, 0.227, 0.225, 0.211, 0.165, 0.16, 0.153, 0.147, 0.146]
+
+component: 19
+['due', 'china', 'flights', '3', '1', '2', '4', 'stop', 'since', 'cases']
+[0.218, 0.213, 0.212, 0.212, 0.211, 0.211, 0.21, 0.21, 0.21, 0.209]
+
+
+Process finished with exit code 0

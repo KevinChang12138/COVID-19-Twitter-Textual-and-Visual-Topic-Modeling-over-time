@@ -1,0 +1,83 @@
+C:\env\python.exe C:/Users/Administrator/PycharmProjects/pythonProject/read_mat.py
+component: 0
+['socialdistancing', 'stayhome', 'staysafe', 'stayathome', 'quarantine', 'covid_19', 'covid19', 'flattenthecurve', 'covid', 'stayhomechallenge']
+[0.472, 0.455, 0.317, 0.31, 0.244, 0.23, 0.222, 0.206, 0.165, 0.128]
+
+component: 1
+['coronavirus', 'coronapocalypse', 'covid19', 'lockdown', 'pandemic', 'breaking', 'virus', 'kai', 'health', 'corona']
+[1.0, 0.022, 0.014, 0.008, 0.005, 0.005, 0.002, 0.001, 0.001, 0.0]
+
+component: 2
+['covid19', 'coronavirus', 'socialdistancing', 'publichealth', 'healthcare', 'pandemic', 'health', 'cdnpoli', 'covid', 'vaccine']
+[0.733, 0.668, 0.09, 0.043, 0.039, 0.036, 0.029, 0.027, 0.025, 0.021]
+
+component: 3
+['china', 'coronaviruschina', 'italy', 'wuhan', 'coronavirususa', 'pandemic', 'outbreak', 'trump', 'creativity', 'virus']
+[0.235, 0.194, 0.171, 0.164, 0.152, 0.151, 0.149, 0.147, 0.145, 0.141]
+
+component: 4
+['coronavirus', 'covid19', 'pandemic', 'economy', 'dubai', 'stocks', 'stockmarket', 'business', 'travel', 'health']
+[0.966, 0.231, 0.079, 0.056, 0.05, 0.031, 0.013, 0.013, 0.008, 0.008]
+
+component: 5
+['lockdown', '21daylockdown', 'corona', 'coronavirus', 'stayhome', 'staysafe', 'covid19', 'coronavirusindia', 'stayathome', 'coronavirusuk']
+[0.891, 0.197, 0.166, 0.166, 0.165, 0.119, 0.118, 0.116, 0.101, 0.077]
+
+component: 6
+['pandemic', 'coronavirus', 'trump', 'covid19', 'lockdown', 'coronapocalypse', 'cdnpoli', 'corona', 'healthcare', 'virus']
+[0.917, 0.222, 0.13, 0.112, 0.103, 0.1, 0.096, 0.094, 0.09, 0.086]
+
+component: 7
+['coronavirusindia', 'coronavirusinindia', 'virus', 'corona', 'coronavirus', 'coronavirusuk', '21daylockdown', 'health', 'coronavirusus', 'coronaviruschina']
+[0.635, 0.554, 0.22, 0.171, 0.157, 0.137, 0.136, 0.128, 0.116, 0.114]
+
+component: 8
+['health', 'healthcare', 'economy', 'business', 'publichealth', 'tech', 'travel', 'coronavirusuk', 'mentalhealth', 'news']
+[0.396, 0.396, 0.297, 0.29, 0.255, 0.23, 0.208, 0.192, 0.191, 0.188]
+
+component: 9
+['coronavirus', 'coronavirusuk', 'covid19', 'covid©`19uk', 'brexit', 'uk', 'covid19uk', 'covid', 'pandemic', 'london']
+[0.684, 0.543, 0.431, 0.119, 0.088, 0.079, 0.079, 0.056, 0.05, 0.046]
+
+component: 10
+['panicbuying', 'toiletpaper', 'coronapocalypse', 'toiletpapergate', 'coronavirusaustralia', 'toiletpapercrisis', 'coronavirusuk', 'coronvirusuk', 'auspol', 'coronapocolypse']
+[0.492, 0.391, 0.348, 0.32, 0.244, 0.243, 0.224, 0.21, 0.188, 0.135]
+
+component: 11
+['auspol', 'coronavirus', 'coronavirusaustralia', 'covid19', 'covid19australia', 'toiletpaper', 'lockdown', 'vaccine', 'toiletpapergate', 'pandemic']
+[0.814, 0.441, 0.242, 0.197, 0.197, 0.055, 0.037, 0.024, 0.021, 0.019]
+
+component: 12
+['flu', 'coronavirus', 'covid19', 'pandemic', 'health', 'covid', 'virus', 'handwashing', 'cdc', 'publichealth']
+[0.811, 0.432, 0.295, 0.158, 0.093, 0.083, 0.079, 0.068, 0.047, 0.047]
+
+component: 13
+['coronavirus', 'covid19', 'nyc', 'japan', 'corona', 'lockdown', 'hongkong', 'california', 'handwashing', 'stayhome']
+[1.0, 0.029, 0.006, 0.005, 0.004, 0.003, 0.003, 0.002, 0.002, 0.001]
+
+component: 14
+['coronavirusindia', 'coronavirus', 'covid19', 'corona', 'coronavirusinindia', 'lockdown', 'news', 'jakpost', '?????', 'tech']
+[0.852, 0.282, 0.257, 0.221, 0.155, 0.152, 0.097, 0.086, 0.066, 0.06]
+
+component: 15
+['corona', 'coronavirus', 'china', 'stayhome', 'covid19', 'virus', 'covid', 'usa', 'health', 'covid_19']
+[0.934, 0.284, 0.137, 0.072, 0.068, 0.066, 0.052, 0.041, 0.041, 0.038]
+
+component: 16
+['coronavirus', 'hoax', 'trump', 'covid19', 'democrats', 'maga', 'coronavirusupdate', 'coronavirusus', 'donaldtrump', 'cnn']
+[0.714, 0.537, 0.286, 0.191, 0.153, 0.145, 0.098, 0.071, 0.069, 0.061]
+
+component: 17
+['news', 'covid19', 'covid', 'coronavirus', 'china', 'travel', 'covid_19', 'jakpost', 'virus', 'breaking']
+[0.497, 0.386, 0.357, 0.341, 0.316, 0.213, 0.192, 0.174, 0.169, 0.167]
+
+component: 18
+['healthworkers', 'coronavirus', 'respect', 'covid19', 'healthcare', 'lockdown', 'pandemic', 'medtwitter', 'corona', 'publichealth']
+[0.702, 0.538, 0.313, 0.271, 0.11, 0.095, 0.079, 0.057, 0.057, 0.055]
+
+component: 19
+['irancorona', 'coronavirus', 'covid19', 'corona', 'travel', 'cornoravirus', 'cdnpoli', 'pandemic', 'news', 'iran']
+[0.94, 0.296, 0.099, 0.059, 0.048, 0.041, 0.04, 0.034, 0.033, 0.03]
+
+
+Process finished with exit code 0

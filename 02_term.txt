@@ -1,0 +1,83 @@
+C:\env\python.exe C:/Users/Administrator/PycharmProjects/pythonProject/read_mat2.py
+component: 0
+['potus', 'combat', 'charge', 'remains', 'house', 'actual', 'making', 'democrats', 'washington', 'contain']
+[0.076, 0.071, 0.07, 0.067, 0.067, 0.064, 0.064, 0.063, 0.062, 0.062]
+
+component: 1
+['france', 'realdonaldtrump', 'issue', 'misinformation', 'administration', 'about', 'hoax', 'europe', 'hands', 'ca']
+[0.1, 0.1, 0.1, 0.098, 0.096, 0.096, 0.093, 0.09, 0.089, 0.086]
+
+component: 2
+['drop', 'scientists', 'bodies', 'continue', 'facility', 'gets', '????', 'wearing', 'research', 'market']
+[0.144, 0.119, 0.118, 0.116, 0.115, 0.105, 0.105, 0.104, 0.104, 0.103]
+
+component: 3
+['coronaviruschina', 'what', 'ccp', 'coronavirusoutbreak', 'corona', 'chinavirus', 'wuhanpneumonia', 'chinacoronavirus', 'wuhanvirus', 'coronaoutbreak']
+[0.143, 0.142, 0.123, 0.119, 0.116, 0.115, 0.114, 0.114, 0.113, 0.103]
+
+component: 4
+['china', 'coronavirus', 'wuhan', 'coronavirusoutbreak', 'covid19', 'wuhancoronavirus', 'virus', 'people', 'coronaviruschina', 'chinese']
+[0.429, 0.386, 0.357, 0.268, 0.193, 0.174, 0.173, 0.158, 0.157, 0.152]
+
+component: 5
+['china', 'coronavirus', 'stocks', 'markets', 'news', 'business', 'economy', 'market', 'impact', 'global']
+[0.35, 0.325, 0.244, 0.218, 0.197, 0.191, 0.175, 0.157, 0.149, 0.141]
+
+component: 6
+['daily', 'thread', 'singapore', 'hong', 'sarscov2', 'hongkong', 'testing', 'kong', 'recent', 'updates']
+[0.123, 0.114, 0.11, 0.102, 0.101, 0.099, 0.099, 0.098, 0.097, 0.095]
+
+component: 7
+['gov', 'shows', 'propaganda', 'made', 'true', 'cdc', 'shanghai', 'hospital', 'singapore', 'my']
+[0.149, 0.144, 0.143, 0.141, 0.137, 0.129, 0.125, 0.118, 0.114, 0.106]
+
+component: 8
+['coronavirususa', 'corona', 'virus', 'coronavirusoutbreak', 'covid©`19', 'coronavirusupdates', 'coronavirusus', 'realdonaldtrump', 'trump', 'watch']
+[0.202, 0.188, 0.155, 0.154, 0.151, 0.15, 0.137, 0.135, 0.135, 0.128]
+
+component: 9
+['coronavirus', 'china', 'covid19', 'japan', 'wuhan', 'virus', 'usa', 'world', 'global', 'singapore']
+[0.717, 0.537, 0.184, 0.113, 0.111, 0.101, 0.091, 0.083, 0.082, 0.079]
+
+component: 10
+['hoax', 'trump', 'people', 'if', 'realdonaldtrump', 'president', 'fake', 'corona', 'entire', 'no']
+[0.182, 0.162, 0.145, 0.141, 0.135, 0.13, 0.127, 0.124, 0.121, 0.121]
+
+component: 11
+['health', 'covid19', 'via', 'healthcare', 'epidemic', 'outbreak', '2019ncov', 'who', 'amp', 'coronavirus']
+[0.275, 0.213, 0.194, 0.19, 0.182, 0.18, 0.163, 0.161, 0.142, 0.137]
+
+component: 12
+['rt', 'follow', 'sars', 'ebola', 'breaking', 'read', 'please', 'live', 'outbreak', 'virus']
+[0.252, 0.248, 0.241, 0.238, 0.236, 0.234, 0.233, 0.233, 0.223, 0.218]
+
+component: 13
+['flu', 'cdc', 'people', 'died', 'deaths', 'high', 'risk', 'least', 'learn', 'million']
+[0.214, 0.149, 0.137, 0.128, 0.128, 0.124, 0.123, 0.122, 0.119, 0.118]
+
+component: 14
+['thespybrief', 'likely', 'experts', 'yet', 'global', 'matter', 'realdonaldtrump', 'the', 'fauci', 'next']
+[0.148, 0.128, 0.126, 0.125, 0.121, 0.12, 0.116, 0.112, 0.108, 0.107]
+
+component: 15
+['police', 'doctor', 'whistleblower', 'arrested', 'spreading', 'post', 'wenliang', 'one', 'weibo', 'first']
+[0.247, 0.241, 0.238, 0.235, 0.224, 0.218, 0.216, 0.212, 0.208, 0.2]
+
+component: 16
+['cruise', 'ship', 'news', 'breaking', 'cases', 'japan', 'flights', 'princess', 'diamond', 'travel']
+[0.269, 0.227, 0.209, 0.198, 0.195, 0.179, 0.179, 0.171, 0.163, 0.157]
+
+component: 17
+['corona', 'coronavirusupdates', 'virus', 'nigeria', 'how', 'mask', 'who', 'to', 'please', 'prevent']
+[0.225, 0.194, 0.181, 0.158, 0.15, 0.142, 0.138, 0.135, 0.132, 0.128]
+
+component: 18
+['diamondprincess', 'quarantine', 'positive', 'ship', 'tested', 'cruise', 'last', 'passengers', 'he', 'quarantined']
+[0.319, 0.277, 0.221, 0.22, 0.199, 0.189, 0.152, 0.15, 0.145, 0.143]
+
+component: 19
+['auspol', 'government', 'australia', 'amp', 'people', 'quarantine', 'travel', 'chinese', 'like', 'back']
+[0.255, 0.148, 0.146, 0.143, 0.139, 0.132, 0.131, 0.125, 0.12, 0.118]
+
+
+Process finished with exit code 0
